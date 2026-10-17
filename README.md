@@ -30,7 +30,7 @@ Each history record contains:
 
 - The two numbers used in the calculation
 - The mathematical operator
-- The final result.
+- The final result
 
 Example:
 
