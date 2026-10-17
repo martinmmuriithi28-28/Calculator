@@ -6,7 +6,7 @@ The **JavaScript Calculator** is a simple command-line calculator application bu
 
 This project simulates a basic operating system utility where users can perform calculations and review their previous operations through a stored history log.
 
-The application was developed using JavaScript with a focus on clean code structure, reusable functions, and effective data management using arrays and objects
+The application was developed using JavaScript with a focus on clean code structure, reusable functions, and effective data management using arrays and objects.
 
 ---
 
